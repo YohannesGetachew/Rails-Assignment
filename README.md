@@ -13,3 +13,7 @@ Command = bundler exec rails server
 
 Then go to localhost:3000
 
+Yohannes Getachew 
+Atr/8465/09
+Section 3
+
